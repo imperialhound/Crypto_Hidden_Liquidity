@@ -1,0 +1,2 @@
+cryptofeed==1.9.3
+aiokafka==0.7.2
